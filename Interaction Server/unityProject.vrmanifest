@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.interactionserver.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "F:\\code\\2021\\real time\\UnityProject-master\\UnityProject-master\\Interaction Server\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Interaction Server [Testing]"
+        }
+      }
+    }
+  ]
+}
